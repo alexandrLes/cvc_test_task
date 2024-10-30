@@ -1,0 +1,6 @@
+aiogram
+paddleocr
+pillow
+sqlalchemy
+asyncpg
+psycopg2
